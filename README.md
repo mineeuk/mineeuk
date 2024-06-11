@@ -1,12 +1,13 @@
 ### Hi there 👋🌱😄
 
-<img src="https://img.shields.io/badge/4chan-#006600?style=flat&logo=React&logoColor=white"/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+
+<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 <!--
 **mineeuk/mineeuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
