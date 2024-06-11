@@ -1,6 +1,6 @@
 ### Hi there 👋🌱😄
 
-<img src="https://img.shields.io/badge/Aer Lingus-#006272?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/4chan-#006600?style=flat&logo=React&logoColor=white"/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
