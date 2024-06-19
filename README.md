@@ -1,5 +1,6 @@
 ### Hi there 👋🌱😄
 
+![농담곰트위터헤더](https://github.com/mineeuk/mineeuk/assets/72694034/90435e61-8bb6-4ff9-bbd6-0e2fcff88793)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
