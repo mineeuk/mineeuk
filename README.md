@@ -1,5 +1,5 @@
 ### Hi there 👋🌱😄🐵
-![image]([https://github.com/mineeuk/mineeuk/assets/72694034/90435e61-8bb6-4ff9-bbd6-0e2fcff88793](https://www.google.com/search?sca_esv=cd167cd6c57a38d9&sca_upv=1&q=%EB%86%8D%EB%8B%B4%EA%B3%B0+%EC%A7%A4&udm=2&fbs=AEQNm0DmKhoYsBCHazhZSCWuALW8l8eUs1i3TeMYPF4tXSfZ9zKNKSjpwusJM2dYWg4btGKvTs8msUkFt41RLL2EsYFXj1HJ-6Tz3zY-OaA8p5OIwItbocDk4qq86p8fJJCtbe3_2vimBnUgRwZhItF5qoYQaFE2UOeb1HzBnvjMvmHOhQgvZ1W__w-vNv-qb6FIYxwRlN9p&sa=X&ved=2ahUKEwjnuOKMgeiGAxVRlFYBHfBpByEQtKgLegQIERAB&biw=1920&bih=945&dpr=1#vhid=tEGXKERGB61hgM&vssid=mosaic))
+![5dd74519e1a794755535173510e8af758785ef49](https://github.com/mineeuk/mineeuk/assets/72694034/33424901-cb91-42fe-bb76-877db2dc0bf3)
 
 <img src="[이미지주소.png](https://www.google.com/search?sca_esv=cd167cd6c57a38d9&sca_upv=1&q=%EB%86%8D%EB%8B%B4%EA%B3%B0+%EC%A7%A4&udm=2&fbs=AEQNm0DmKhoYsBCHazhZSCWuALW8l8eUs1i3TeMYPF4tXSfZ9zKNKSjpwusJM2dYWg4btGKvTs8msUkFt41RLL2EsYFXj1HJ-6Tz3zY-OaA8p5OIwItbocDk4qq86p8fJJCtbe3_2vimBnUgRwZhItF5qoYQaFE2UOeb1HzBnvjMvmHOhQgvZ1W__w-vNv-qb6FIYxwRlN9p&sa=X&ved=2ahUKEwjnuOKMgeiGAxVRlFYBHfBpByEQtKgLegQIERAB&biw=1920&bih=945&dpr=1#vhid=tEGXKERGB61hgM&vssid=mosaic)" width="200" height="400"/>
 
