@@ -14,7 +14,7 @@ I am currently working as an AI researcher at MIPPIA Inc.! 😄
 (Mar 2024) [Transfer Relationships via Prompt for Medical Image Classification](https://micv-yonsei.github.io/promptdistill2024/)
 
 ## Education
-[2022-2024] MS Student in Dept. of Artificial Intelligence, Yonsei University
+[2022-2024] MS Student in Dept. of Artificial Intelligence, Yonsei University <br>
 [2018-2022] BS in Intelligent System Semiconductor Engineering, Sangmyoung University
 
 
