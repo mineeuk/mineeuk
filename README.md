@@ -7,7 +7,7 @@ I am currently working as an AI researcher at MIPPIA Inc.! 😄
 (Aug 2025) [Segment Transformer: AI-Generated Music Detection via Music Structural Analysis](https://arxiv.org/pdf/2509.08283) has been ACCEPTED to APSIPA ASC 2025. <br>
 (June 2025) From Fixed Windows To Musical Bars: Structure-Aware Preprocessing In MIR has been ACCEPTED to ISMIR LBD 2025.<br>
 (Aug 2024) [Platypus: Progressive local surface estimator for arbitrary-scale point cloud upsampling](https://ojs.aaai.org/index.php/AAAI/article/view/32445) has been ACCEPTED to AAAI 2025 as a Oral (top 4.6% of submissions).<br>
-(Mar 2024) [Parameter Efficient Fine-Tunugn for Multi-Scanner PET to PET Reconstruction](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=zzREJFUAAAAJ&citation_for_view=zzREJFUAAAAJ:u5HHmVD_uO8C) has been ACCEPTED to MICCAI 2024.<br>
+(Mar 2024) [Parameter Efficient Fine-Tuning for Multi-Scanner PET to PET Reconstruction](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=zzREJFUAAAAJ&citation_for_view=zzREJFUAAAAJ:u5HHmVD_uO8C) has been ACCEPTED to MICCAI 2024.<br>
 <br>
 
 ## Project!
