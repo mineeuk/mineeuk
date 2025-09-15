@@ -3,8 +3,6 @@
 
 <a href="https://github.com/mineeuk"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mineeuk) 
-
 I am currently working as an AI researcher at MIPPIA Inc.! 😄
 
 ## News!
