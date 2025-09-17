@@ -15,7 +15,7 @@ I am currently working as an AI researcher at MIPPIA Inc.! 😄
 
 ## Education
 [2022-2024] MS Student in Dept. of Artificial Intelligence, Yonsei University <br>
-[2018-2022] BS in Intelligent System Semiconductor Engineering, Sangmyoung University
+[2018-2022] BS in Intelligent System Semiconductor Engineering, Sangmyung University
 
 
 <!--
