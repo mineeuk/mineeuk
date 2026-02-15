@@ -11,6 +11,11 @@ I am currently working as an AI researcher at MIPPIA Inc.! 😄
 <br>
 
 ## Project!
+(Jan 2026) Lyrics Are Meant to Be Sung: Modeling Singable Similarity for Cover Song Identification with Lyrics
+(Oct 2025) Lyric Siamese Network with Semantic and Phonetic Embeddings for Cover Song Identification
+(Sep 2025) Fusion Segment Transformer: Bi-Directional Attention Guided Fusion Network for AI-Generated Music Detection
+(Sep 2025) Music Plagiarism Detection: Problem Formulation And A Segment-based Solution
+(Mar 2024) Real-time Speech Emotion Recognition, LG Electronics
 (Mar 2024) [Transfer Relationships via Prompt for Medical Image Classification](https://micv-yonsei.github.io/promptdistill2024/)
 
 ## Education
