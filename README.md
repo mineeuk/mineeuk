@@ -18,11 +18,6 @@ I am currently working as an AI researcher at MIPPIA Inc.! 😄
 (Mar 2024) Real-time Speech Emotion Recognition, LG Electronics<br>
 (Mar 2024) [Transfer Relationships via Prompt for Medical Image Classification](https://micv-yonsei.github.io/promptdistill2024/)
 
-## Education
-[2022-2024] MS Student in Dept. of Artificial Intelligence, Yonsei University <br>
-[2018-2022] BS in Intelligent System Semiconductor Engineering, Sangmyung University
-
-
 <!--
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=깃허브 이름&repo=repository 이름)
 ![Yumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mineeuk&hide=contribs,prs&show_icons=true&theme=테마)
