@@ -11,6 +11,7 @@ I am currently working as an AI researcher at MIPPIA Inc.! 😄
 <br>
 
 ## Project!
+(May 2026) HAIM: Human-AI Music Datasets for AI Music Production Tracking Benchmark<br>
 (Jan 2026) Lyrics Are Meant to Be Sung: Modeling Singable Similarity for Cover Song Identification with Lyrics<br>
 (Oct 2025) Lyric Siamese Network with Semantic and Phonetic Embeddings for Cover Song Identification<br>
 (Sep 2025) Fusion Segment Transformer: Bi-Directional Attention Guided Fusion Network for AI-Generated Music Detection<br>
