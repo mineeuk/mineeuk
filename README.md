@@ -14,8 +14,8 @@ I am currently working as an AI researcher at MIPPIA Inc.! 😄
 (May 2026) [HAIM: Human-AI Music Datasets for AI Music Production Tracking Benchmark](https://arxiv.org/pdf/2606.01686)<br>
 (Jan 2026) Lyrics Are Meant to Be Sung: Modeling Singable Similarity for Cover Song Identification with Lyrics<br>
 (Oct 2025) Lyric Siamese Network with Semantic and Phonetic Embeddings for Cover Song Identification<br>
-(Sep 2025) Fusion Segment Transformer: Bi-Directional Attention Guided Fusion Network for AI-Generated Music Detection<br>
-(Sep 2025) Music Plagiarism Detection: Problem Formulation And A Segment-based Solution<br>
+(Sep 2025) [Fusion Segment Transformer: Bi-Directional Attention Guided Fusion Network for AI-Generated Music Detection](https://arxiv.org/pdf/2601.13647)<br>
+(Sep 2025) [Music Plagiarism Detection: Problem Formulation And A Segment-based Solution](https://arxiv.org/pdf/2601.21260)<br>
 (Mar 2024) Real-time Speech Emotion Recognition, LG Electronics<br>
 (Mar 2024) [Transfer Relationships via Prompt for Medical Image Classification](https://micv-yonsei.github.io/promptdistill2024/)
 
