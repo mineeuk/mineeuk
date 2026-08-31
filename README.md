@@ -1,7 +1,6 @@
 ### Hi there 👋🌱😄🐵
 ![5dd74519e1a794755535173510e8af758785ef49](https://github.com/mineeuk/mineeuk/assets/72694034/4d651d90-557d-444f-bcd8-1541ef41613a)
 
-I am currently working as an AI researcher at MIPPIA Inc.! 😄
 
 ## News!
 (Aug 2025) [Segment Transformer: AI-Generated Music Detection via Music Structural Analysis](https://arxiv.org/pdf/2509.08283) has been ACCEPTED to APSIPA ASC 2025. <br>
