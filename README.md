@@ -5,12 +5,12 @@
 ## News!
 (Aug 2025) [Segment Transformer: AI-Generated Music Detection via Music Structural Analysis](https://arxiv.org/pdf/2509.08283) has been ACCEPTED to APSIPA ASC 2025. <br>
 (June 2025) [From Fixed Windows To Musical Bars: Structure-Aware Preprocessing In MIR](https://ismir2025program.ismir.net/lbd_394.html) has been ACCEPTED to ISMIR LBD 2025.<br>
-(Aug 2024) [Platypus: Progressive local surface estimator for arbitrary-scale point cloud upsampling](https://ojs.aaai.org/index.php/AAAI/article/view/32445) has been ACCEPTED to AAAI 2025 as a Oral (top 4.6% of submissions).<br>
+(Aug 2024) [Platypus: Progressive local surface estimator for arbitrary-scale point cloud upsampling](https://ojs.aaai.org/index.php/AAAI/article/view/32445) has been ACCEPTED to AAAI 2025 as an Oral (top 4.6% of submissions).<br>
 (Mar 2024) [Parameter Efficient Fine-Tuning for Multi-Scanner PET to PET Reconstruction](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=zzREJFUAAAAJ&citation_for_view=zzREJFUAAAAJ:u5HHmVD_uO8C) has been ACCEPTED to MICCAI 2024.<br>
 <br>
 
 ## Project!
-(May 2026) [HAIM: Human-AI Music Datasets for AI Music Production Tracking Benchmark](https://arxiv.org/pdf/2606.01686)<br>
+(June 2026) [HAIM: Human-AI Music Datasets for AI Music Production Tracking Benchmark](https://arxiv.org/pdf/2606.01686)<br>
 (Jan 2026) Lyrics Are Meant to Be Sung: Modeling Singable Similarity for Cover Song Identification with Lyrics<br>
 (Oct 2025) Lyric Siamese Network with Semantic and Phonetic Embeddings for Cover Song Identification<br>
 (Sep 2025) [Fusion Segment Transformer: Bi-Directional Attention Guided Fusion Network for AI-Generated Music Detection](https://arxiv.org/pdf/2601.13647)<br>
