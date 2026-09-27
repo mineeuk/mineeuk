@@ -1,5 +1,6 @@
 ### Hi there 👋🌱😄🐵
 <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/ba0baf50-4cfa-4525-9c77-fb4dd9d9a19b" />
+<br>
 ## News!
 (Aug 2025) [Segment Transformer: AI-Generated Music Detection via Music Structural Analysis](https://arxiv.org/pdf/2509.08283) has been ACCEPTED to APSIPA ASC 2025. <br>
 (June 2025) [From Fixed Windows To Musical Bars: Structure-Aware Preprocessing In MIR](https://ismir2025program.ismir.net/lbd_394.html) has been ACCEPTED to ISMIR LBD 2025.<br>
